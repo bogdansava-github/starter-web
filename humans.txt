@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Bogdan Sava  bogdan@email.com  @bogdan
 
 # THANKS
 
